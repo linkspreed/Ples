@@ -1,9 +1,6 @@
-# ples
+# <img align="left" alt="Ples" width="100px" src="https://ples.ml/themes/youplay/img/icon.png" draggable="false" /> Ples ([Click to try 🚀](https://ples.ml/))
+
 Ples 💜 is a social network 😍 for short and funny videos that will save your day 📱 and put a smiley on your face.
-
-# <img align="left" alt="Analytix" width="40px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Analytix ([Click to try 🚀](https://analytix.tk/))
-
-Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
 
 
 
