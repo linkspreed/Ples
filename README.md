@@ -15,15 +15,15 @@ Ples 💜 is a social network 😍 for short and funny videos that will save you
 
 ## Features
 
-**DASHBOARD** – Get an overview of your account and your tracked videos.
+ - **DASHBOARD** – Get an overview of your account and your tracked videos.
 
-**STATS** – Get specific statistics & analytics reports for your content
-**Chats**
-**Upload Videos**
-**Go Live**
-**Import Videos**
-**Post, Like and Comment**
-**AND SO MUCH MORE ...**
+ - **STATS** – Get specific statistics & analytics reports for your content
+ - **Chats**
+ - **Upload Videos**
+ - **Go Live**
+ - **Import Videos**
+ - **Post, Like and Comment**
+ - **AND SO MUCH MORE ...**
 
 ## More
  
