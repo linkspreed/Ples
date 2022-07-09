@@ -44,7 +44,7 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ðŸ
 
 
 ### Welcome
-<img align="center" alt="Ples" width="3000px" src="https://github.com/linkspreed/PLes/blob/main/screenshots/1.PNG" draggable="false" />
+<img align="center" alt="Ples" width="3000px" src="https://github.com/linkspreed/Ples/blob/main/screenshots/1.PNG" draggable="false" />
 
 ### Timeline
 <img align="center" alt="Ples" width="3000px" src="https://github.com/linkspreed/Ples/blob/main/screenshots/2.PNG" draggable="false" />
