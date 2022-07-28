@@ -1,3 +1,6 @@
+# 28.07.2022
+ - We're working on adjusting the color of Ples a bit.
+
 # 12.07.2022
  - The new version has been released. Version 2.2.3 is now available live.
 
