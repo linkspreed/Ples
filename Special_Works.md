@@ -1,3 +1,6 @@
+### 01.06.2023 (announcement Ples)
+- 🚀🤖👨‍💻 We're currently working on version 3.0.1 for Ples! 🙌 Have you tried our latest updates yet? Let us know your feedback in the comments below! 🤔 #PlesMigration #PlesSupport
+
 ### 09.05.2023 (announcement Ples)
 - 🎉📺🚀 Exciting news! Our team has just released version 3.0 of our Ples video streaming platform! 💻📹🙌 We worked hard to bring you new features and improved performance. Check out the patch notes and documentation on our GitHub page! 🔍📋 What's your favorite video to stream on Ples? 🎥🍿 #videostreaming #Ples3 #techupdates
 
