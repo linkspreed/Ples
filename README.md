@@ -1,4 +1,4 @@
-# <img align="left" alt="Ples" width="100px" src="https://ples.ml/themes/youplay/img/icon.png" draggable="false" /> Ples ([Click to try 🚀](https://ples.ml/)) (v3.0)
+# <img align="left" alt="Ples" width="100px" src="https://ples.ml/themes/youplay/img/icon.png" draggable="false" /> Ples ([Click to try 🚀](https://ples.ml/)) (v3.0.1)
 
 Ples 💜 is a social network 😍 for short and funny videos that will save your day 📱 and put a smiley on your face.
 
