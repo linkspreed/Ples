@@ -1,4 +1,28 @@
 ### 01.06.2023 (announcement Ples)
+- 🎉 Hot off the press: Ples just launched Version 3.0.1 of our video streaming platform! 🚀 What new features are you most excited to try out? 🔍 #PlesVideo #VideoStreaming #NewRelease
+
+### 01.06.2023 (announcement Ples)
+- https://github.com/linkspreed/Ples/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 01.06.2023 (announcement Ples)
+- The launch of version 3.0.1 of **Ples** was successful! 🥳
+- The new update is live now :)
+- https://ples.ml 🔗
+
+### 01.06.2023 (announcement Ples)
+- We are now starting the launch of v3.0.1.
+
+### 01.06.2023 (announcement Ples)
+- The servers are now ready for the launch of version 3.0.1 for **Ples**.
+
+### 01.06.2023 (announcement Ples)
+- The code is now ready for the launch of version 3.0.1 for **Ples**.
+
+### 01.06.2023 (announcement Ples)
+-  **Ples** gets a big update today - we are going to launch v3.0.1. 😍
+
+### 01.06.2023 (announcement Ples)
 - 🚀🤖👨‍💻 We're currently working on version 3.0.1 for Ples! 🙌 Have you tried our latest updates yet? Let us know your feedback in the comments below! 🤔 #PlesMigration #PlesSupport
 
 ### 09.05.2023 (announcement Ples)
