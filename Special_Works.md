@@ -1,3 +1,6 @@
+### 24.06.2023 (announcement Ples)
+- 🎉Exciting news!🎉 We've just added Ples to our subdomain system! 🔗 https://ples.ml now redirects to 🔗 https://ples.linkspreed.com. Don't worry, nothing changes for you, you can continue using the platform with all your existing data as usual. 😎 #Ples #Linkspreed #Subdomain #TechUpdate Any questions? 😉
+
 ### 01.06.2023 (announcement Ples)
 - 🎉 Hot off the press: Ples just launched Version 3.0.1 of our video streaming platform! 🚀 What new features are you most excited to try out? 🔍 #PlesVideo #VideoStreaming #NewRelease
 
